@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import ProductWrapper from "./Styles/ProductWrapper";
 import { ProductConsumer } from "../context";
 import { Link } from "react-router-dom";
-import ProductList from "./ProductList";
+// import ProductList from "./ProductList";
 import PropTypes from "prop-types";
 
 export default class Product extends Component {
